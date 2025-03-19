@@ -1,0 +1,17 @@
+.nav-header {
+    display: flex;
+    background: #007185;
+}
+
+.page-conainer h1{
+    font-weight: 400;
+    font-size: 28px;
+    color: white;
+    margin:5px  5px;
+    align-items: center;
+    justify-content: center;
+}
+.products-slider-with-price .products::-webkit-scrollbar {
+    display: none;
+    margin: 30px 30px;
+  }
